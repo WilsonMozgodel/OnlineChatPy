@@ -1,4 +1,3 @@
 # OnlineChatPy
 Обычный онлайн чат сделанный мною еще давно
-![Uploading image.png…]()
-
+https://i.imgur.com/S9P808z.png
